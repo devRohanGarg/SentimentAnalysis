@@ -1,0 +1,3 @@
+1) Activate a python3 conda environment. In this environment, you'll need to have installed numpy, jupyter notebook, matplotlib, scikit-learn, and bokeh.
+2) Start up your Jupyter notebook server.
+3) Open Sentiment Classification - Intro.ipynb.
